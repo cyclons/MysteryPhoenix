@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1275bdf766d770e4cb0d9094589ac436, type: 3}
+  m_Name: PuzzleConfig_Game
+  m_EditorClassIdentifier: Assembly-CSharp::Combos
+  puzzleInfos:
+  - IsFilled: 0
+    Id: 0
+    PuzzleSprite: {fileID: 21300000, guid: f06b8226e07adb442ac595adbe21a6c5, type: 2}
+  - IsFilled: 0
+    Id: 1
+    PuzzleSprite: {fileID: 21300000, guid: 29bc31f730c2aa44a95d44c200dc9df7, type: 2}
+  - IsFilled: 0
+    Id: 2
+    PuzzleSprite: {fileID: 21300000, guid: 3595fd2702bf9d946a04d754104f966c, type: 2}
+  - IsFilled: 0
+    Id: 3
+    PuzzleSprite: {fileID: 21300000, guid: 9a44a887889c99e4cb557e1276c9e1e5, type: 2}
+  - IsFilled: 0
+    Id: 4
+    PuzzleSprite: {fileID: 21300000, guid: ae1237b50683aa5479eb3ba27e8b2abc, type: 2}
+  - IsFilled: 0
+    Id: 5
+    PuzzleSprite: {fileID: 21300000, guid: 2b57f080a7e8ef64dabb1883e1786a17, type: 2}
+  - IsFilled: 0
+    Id: 6
+    PuzzleSprite: {fileID: 21300000, guid: f0457193fc663ec46893951a03f22c60, type: 2}
+  - IsFilled: 0
+    Id: 7
+    PuzzleSprite: {fileID: 21300000, guid: a6932a04f8dc52d4b9d6777fb021ddb3, type: 2}
+  - IsFilled: 0
+    Id: 8
+    PuzzleSprite: {fileID: 21300000, guid: d62dfa9dce2f5eb47a7e951ba6104e94, type: 2}
+  - IsFilled: 0
+    Id: 9
+    PuzzleSprite: {fileID: 21300000, guid: d69321395a0d574408925498fbc1a456, type: 2}
+  - IsFilled: 0
+    Id: 10
+    PuzzleSprite: {fileID: 21300000, guid: 165038bfad3238249ab4138b7555b310, type: 2}
+  - IsFilled: 0
+    Id: 11
+    PuzzleSprite: {fileID: 21300000, guid: 820f5d7fb2146fb43a67f8e34ae666e7, type: 2}
+  - IsFilled: 0
+    Id: 12
+    PuzzleSprite: {fileID: 21300000, guid: fdaf01e9de1c3b348b70235d42d15051, type: 2}
+  - IsFilled: 0
+    Id: 13
+    PuzzleSprite: {fileID: 21300000, guid: 60e3b4db4b60d844495f004599e933bb, type: 2}
+  - IsFilled: 0
+    Id: -1
+    PuzzleSprite: {fileID: 0}
+  - IsFilled: 0
+    Id: 14
+    PuzzleSprite: {fileID: 21300000, guid: 62b8ef686f859414b8ba8c59c569de9a, type: 2}
+  WinCheck: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e000000ffffffff
