@@ -101,6 +101,8 @@ public class PuzzleController : MonoBehaviour
         moveGrid.transform.DOMove(StartTrans.position - Vector3.up * targetPoint.x*PuzzleDistance + Vector3.right * targetPoint.y*PuzzleDistance,0.2f);
         //moveGrid.transform.position += (Vector3)MoveDir * PuzzleDistance;
 
+        GetComponent<AudioSource>().Play();
+
         CheckWin();
     }
 
